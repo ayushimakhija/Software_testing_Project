@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-26T03:31:55 IST" name="Surefire suite" finished-at="2021-11-26T03:31:56 IST" duration-ms="988">
+    <groups>
+    </groups>
+    <test started-at="2021-11-26T03:31:55 IST" name="Surefire test" finished-at="2021-11-26T03:31:56 IST" duration-ms="988">
+      <class name="com.fooddel.Services.MenuProviderServiceTest">
+        <test-method signature="test_path1234536()" started-at="2021-11-26T03:31:55 IST" name="test_path1234536" finished-at="2021-11-26T03:31:56 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_path1234536 -->
+        <test-method signature="test_path123436()" started-at="2021-11-26T03:31:55 IST" name="test_path123436" finished-at="2021-11-26T03:31:56 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_path123436 -->
+        <test-method signature="test_path12343436()" started-at="2021-11-26T03:31:55 IST" name="test_path12343436" finished-at="2021-11-26T03:31:56 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_path12343436 -->
+        <test-method signature="test_path1234534536()" started-at="2021-11-26T03:31:55 IST" name="test_path1234534536" finished-at="2021-11-26T03:31:56 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_path1234534536 -->
+        <test-method signature="test_path1236()" started-at="2021-11-26T03:31:55 IST" name="test_path1236" finished-at="2021-11-26T03:31:56 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_path1236 -->
+        <test-method signature="test_path123453436()" started-at="2021-11-26T03:31:55 IST" name="test_path123453436" finished-at="2021-11-26T03:31:56 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_path123453436 -->
+      </class> <!-- com.fooddel.Services.MenuProviderServiceTest -->
+      <class name="com.fooddel.Services.CustomerServiceTest">
+        <test-method signature="testGetCustomer()" started-at="2021-11-26T03:31:56 IST" name="testGetCustomer" finished-at="2021-11-26T03:31:56 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetCustomer -->
+      </class> <!-- com.fooddel.Services.CustomerServiceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
